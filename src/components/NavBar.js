@@ -80,7 +80,7 @@ const NavBar = () => {
         <Link href='https://github.com/pradyotter'>
           <Image src='/github.png' alt='' width={24} height={24} />
         </Link>
-        <Link href='https://www.linkedin.com/in/pradunya-bhuyan-955101173/'>
+        <Link href='https://www.linkedin.com/in/pradunya-bhuyan/'>
           <Image src='/linkedin.png' alt='' width={24} height={24} />
         </Link>
       </div>
